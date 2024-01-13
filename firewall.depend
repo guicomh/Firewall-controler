@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705148589 source:c:\users\elise\onedrive\Área de trabalho\firewall c\firewall\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

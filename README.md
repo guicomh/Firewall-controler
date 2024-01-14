@@ -9,4 +9,4 @@ Este é um simples programa em C para ativar ou desativar o Firewall do Windows.
 
 ## Como usar
 
-- execute o exe como adm
+- execute o .exe como adm
